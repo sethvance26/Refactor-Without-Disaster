@@ -15,6 +15,8 @@ To ensure that the links still functioned correctly, I made sure that the ID's m
 
 ![Capture](https://user-images.githubusercontent.com/76290048/109408026-b8867c80-7953-11eb-9dad-84fd436283e3.PNG)
 
+As part of the acceptance criteria, we were told to link our page up with GitHub Pages, and provide a link for the live website as well as an image of our finished product. (Shown above.)
 
+The link for the final product is here! --> https://sethvance26.github.io/Refactor-Without-Disaster/
 
 
