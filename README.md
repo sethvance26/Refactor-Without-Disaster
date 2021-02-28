@@ -13,6 +13,7 @@ Next, we created some space between lines of code on both the HTML and CSS style
 
 To ensure that the links still functioned correctly, I made sure that the ID's matched up within the </a href/> tag, as well as the div classes. 
 
+![Capture](https://user-images.githubusercontent.com/76290048/109408026-b8867c80-7953-11eb-9dad-84fd436283e3.PNG)
 
 
 
